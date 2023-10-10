@@ -8,7 +8,7 @@
 
 <div> 
    <br> <h1>PROTÓTIPO 📱</h1>
-https://www.figma.com/file/pYiA8ogBZIscLLjrYe7d92/ToDoList?type=design&node-id=9-27&mode=design&t=ejjIiTxs5B6kLwn6-0
+https://www.figma.com/proto/pYiA8ogBZIscLLjrYe7d92/ToDoList?type=design&node-id=5-17&t=Nx6CY1ORbEWoUksS-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=5%3A17
 </div>
 
 <div>
