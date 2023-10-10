@@ -8,8 +8,7 @@
 
 <div> 
    <br> <h1>PROTÓTIPO 📱</h1>
-<img style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FpYiA8ogBZIscLLjrYe7d92%2FToDoList%3Ftype%3Ddesign%26node-id%3D5%253A144%26mode%3Ddesign%26t%3D2bP7e0vKP4s2CtGe-1" allowfullscreen>
-  
+https://www.figma.com/file/pYiA8ogBZIscLLjrYe7d92/ToDoList?type=design&node-id=9-27&mode=design&t=ejjIiTxs5B6kLwn6-0
 </div>
 
 <div>
