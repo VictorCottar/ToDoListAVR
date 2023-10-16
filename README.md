@@ -1,9 +1,9 @@
 <h1>TO DO LIST AVR 📝✅</h1>
 <div> 
     <h1>SOBRE O APP 🚀</h1>  
-  <h3> Vamos desenvolver um Aplicativo Mobile To Do List, onde o usuário poderá colocar suas tarefas diárias para manter-se organizado e produtivo em sua vida agitada.<br>
+   Vamos desenvolver um Aplicativo Mobile To Do List, onde o usuário poderá colocar suas tarefas diárias para manter-se organizado e produtivo em sua vida agitada.<br>
   <br> Este aplicativo de lista de tarefas intuitivo é projetado para simplificar sua rotina diária, ajudando-o a gerenciar suas tarefas de forma eficiente.<br>
-<br> O Usuário poderá adicionar tarefas, excluir tarefas, marcar tarefas como concluída e visualizar as tarefas concluídas.</h3> 
+<br> O Usuário poderá adicionar tarefas, excluir tarefas, marcar tarefas como concluída e visualizar as tarefas concluídas.
 </div>
 
 <div> 
