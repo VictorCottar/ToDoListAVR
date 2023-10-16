@@ -13,10 +13,9 @@ https://www.figma.com/proto/pYiA8ogBZIscLLjrYe7d92/ToDoList?type=design&node-id=
 
 <div>
   <br> <h1>FUNCIONALIDADES 😎</h1>
-<h3>
+    
   <li>Criar Tarefas</li>
   <li>Excluir Tarefas</li>
   <li>Marcar Tarefas como Concluídas</li>
   <li>Visualizar Tarefas Concluídas</li>
-</h3>
 </div>
